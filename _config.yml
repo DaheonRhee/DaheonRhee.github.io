@@ -16,7 +16,7 @@ name                     : &name "Daheon Rhee"
 # 본인의 전공이나 연구 분야를 넣어주면 좋습니다.
 description              : &description "Daheon Rhee's academic portfolio and research"
 # https:// 를 꼭 붙여주세요!
-url              : "https://daheonlee.github.io" # 실제 아이디인 DaheonLee를 사용해야 합니다.
+url              : "https://DaheonLee.github.io" # 실제 아이디인 DaheonLee를 사용해야 합니다.
 baseurl          : "/daheon.rhee.github.io"      # 리포지토리 이름을 여기에 적어줘야 합니다.
 repository       : "DaheonLee/daheon.rhee.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
