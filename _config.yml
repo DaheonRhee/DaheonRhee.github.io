@@ -16,8 +16,8 @@ name                     : &name "Daheon Rhee"
 # 본인의 전공이나 연구 분야를 넣어주면 좋습니다.
 description              : &description "Daheon Rhee's academic portfolio and research"
 # https:// 를 꼭 붙여주세요!
-url              : "https://daheonrhee.github.io" # 실제 아이디인 DaheonLee를 사용해야 합니다.
-baseurl          : ""    # 리포지토리 이름을 여기에 적어줘야 합니다.
+url              : "https://daheonrhee.github.io" 
+baseurl          : ""   
 repository       : "DaheonRhee/daheon.rhee.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -30,7 +30,7 @@ author:
   bio              : "Master's Student in Political Science at Yonsei University"
   location         : "Seoul, South Korea"
   employer         : "Yonsei University"
-  uri              : "https://www.linkedin.com/in/daheon-rhee-7203b53a1" # 본인 홈페이지 주소
+  uri              :  # 본인 홈페이지 주소
   email            : "daheon.rhee@gmail.com"
 
 
@@ -53,7 +53,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/daheon-rhee-7203b53a1"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
