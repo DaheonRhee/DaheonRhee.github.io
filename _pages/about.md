@@ -15,9 +15,18 @@ Building on my undergraduate double major in Economics, I have developed a stron
 
 Substantively, my research interests include international security, great power politics, international trade and finance, corporate lobbying, and stablecoins. I aim to integrate theoretical insights from IR and IPE with advanced computational tools to study political behavior and international economic relations at scale.
 
-Research Interests
-International Relations theory: great power politics; international security; 
+## Research Interests
 
-International Political Economy: international trade and finance; corporate lobbying; stablecoins
+**International Relations Theory**  
+– Great power politics  
+– International security  
 
-Quantative Methods: Econometrics; computational social science; text-as-data methods; 
+**International Political Economy**  
+– International trade and finance  
+– Corporate lobbying  
+– Stablecoins  
+
+**Quantitative Methods**  
+– Econometrics  
+– Computational social science  
+– Text-as-data methods
