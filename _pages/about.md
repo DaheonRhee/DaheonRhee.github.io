@@ -26,7 +26,8 @@ Substantively, my research interests include international security, great power
 – Corporate lobbying  
 – Stablecoins  
 
-**Quantitative Methods**  
+**Quantitative Methods & Artificial Intelligence**  
 – Econometrics  
-– Computational social science  
+– Computational social science 
 – Text-as-data methods
+- Large Language Models (LLMS)
