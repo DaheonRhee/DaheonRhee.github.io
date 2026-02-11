@@ -31,4 +31,3 @@ Substantively, my research interests include international security, great power
 – Computational social science 
 – Text-as-data methods
 – Large Language Models (LLMS)
-
