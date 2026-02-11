@@ -24,7 +24,7 @@ repository       : "DaheonRhee/daheon.rhee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "daheon2.png" # 경로를 확인하세요!
+  avatar           : "daheon2.jpeg" # 경로를 확인하세요!
   name             : "Daheon Rhee"
   pronouns         : # 선택 사항
   bio              : "Master's Student in Political Science at Yonsei University"
