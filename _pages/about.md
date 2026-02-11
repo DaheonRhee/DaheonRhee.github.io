@@ -7,6 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master’s student in department of political science at Yonsei University specializing in International Relations and International Political Economy with quantitative political analysis and text-as-data methods. My research explores the application of AI and computational methodologies, including LLMs, GNNs, and NLP, to questions in political science. Building on an undergraduate double-major in Economics, I have developed a foundation in microeconomics, macroeconomics, and econometrics, enabling me to systematically analyze international political and economic phenomena.
+I am a first-year master’s student in the Department of Political Science at Yonsei University, specializing in International Relations and International Political Economy, with a methodological focus on quantitative political analysis and text-as-data approaches.
 
-Substantively, I am interested in international security, great power politics, trade and finance, corporate lobbying, and African politics. I seek to integrate theoretical insights from IR and IPE with advanced computational tools to study political behavior and international economic relations at scale.
+My research explores the application of AI and computational methods—including large language models (LLMs), graph neural networks (GNNs), and natural language processing (NLP)—to theoretical questions in International Relations.
+
+Building on my undergraduate double major in Economics, I have developed a strong foundation in microeconomics, macroeconomics, and econometrics, which enables me to systematically analyze phenomena in international political economy.
+
+Substantively, my research interests include international security, great power politics, international trade and finance, corporate lobbying, and stablecoins. I aim to integrate theoretical insights from IR and IPE with advanced computational tools to study political behavior and international economic relations at scale.
+
+Research Interests
+International Relations theory: great power politics; international security; 
+
+International Political Economy: international trade and finance; corporate lobbying; stablecoins
+
+Quantative Methods: Econometrics; computational social science; text-as-data methods; 
