@@ -18,16 +18,10 @@ Substantively, my research interests include international security, great power
 ## Research Interests
 
 **International Relations Theory**  
-– Great power politics  
-– International security  
+Great power politics; Polarity
 
 **International Political Economy**  
-– International trade and finance  
-– Corporate lobbying  
-– Stablecoins  
+International trade; International finance; Corporate lobbying; Stablecoins  
 
 **Quantitative Methods & Artificial Intelligence**  
-- Econometrics  
-- Computational Social Science  
-- Text-as-Data Methods  
-- Large Language Models (LLMs)
+Econometrics; Computational Social Science; Text-as-Data Methods; Large Language Models (LLMs)
