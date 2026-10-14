@@ -7,21 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master’s student in the Department of Political Science at Yonsei University, specializing in International Relations and International Political Economy, with a methodological focus on quantitative political analysis and text-as-data approaches.
+I am a master's student in the Department of Political Science at Yonsei University, specializing in International Relations and International Political Economy, with a methodological focus on quantitative political analysis and text-as-data approaches.
 
-My research explores the application of AI and computational methods—including large language models (LLMs), graph neural networks (GNNs), and natural language processing (NLP)—to theoretical questions in International Relations.
+My research interests lie in great power politics, geoeconomics, the weaponization of interdependence, and the monetary and financial foundations of U.S. power.
 
-Building on my undergraduate double major in Economics, I have developed a strong foundation in microeconomics, macroeconomics, and econometrics, which enables me to systematically analyze phenomena in international political economy.
-
-Substantively, my research interests include international security, great power politics, international trade and finance, corporate lobbying, and stablecoins. I aim to integrate theoretical insights from IR and IPE with advanced computational tools to study political behavior and international economic relations at scale.
+Building on my undergraduate double major in Economics, I have developed a strong foundation in game theory and econometrics, which enables me to systematically analyze phenomena in international political economy.
 
 ## Research Interests
 
-**International Relations Theory**  
-Great power politics; Polarity
-
 **International Political Economy**  
-International trade; International finance; Corporate lobbying; Stablecoins  
+Geoeconomics; Economic Coercion; Weaponized Interdependence; Dollar Hegemony and Financial Statecraft; Stablecoins and U.S. Financial Policy  
+
+**International Relations Theory**  
+Great Power Politics; Hegemonic Decline; Great Power Status; Alliance Politics; U.S.-China Competition  
 
 **Quantitative Methods & Artificial Intelligence**  
-Econometrics; Computational Social Science; Text-as-Data Methods; Large Language Models (LLMs)
+Formal Theory; Text-as-Data Methods; Large Language Models (LLMs); Econometrics  
+
+**Current Projects**  
+(1) Why a declining hegemon coerces its allies rather than non-allies, with a formal model of target selection as the U.S.-China power gap narrows. (2) Measuring great power status from text using LLMs. (3) How stablecoins shape the formation and effects of U.S. financial policy.
