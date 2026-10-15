@@ -16,13 +16,10 @@ Building on my undergraduate double major in Economics, I have developed a stron
 ## Research Interests
 
 **International Political Economy**  
-Geoeconomics; Economic Coercion; Weaponized Interdependence; Dollar Hegemony and Financial Statecraft; Stablecoins and U.S. Financial Policy  
+Geoeconomics; Economic Coercion; Weaponized Interdependence; Dollar Hegemony and Financial Statecraft
 
 **International Relations Theory**  
-Great Power Politics; Hegemonic Decline; Great Power Status; Alliance Politics; U.S.-China Competition  
-
-**Quantitative Methods & Artificial Intelligence**  
-Formal Theory; Text-as-Data Methods; Large Language Models (LLMs); Econometrics  
+Great Power Politics; Great Power Status; Alliance Politics
 
 **Current Projects**  
 (1) Why a declining hegemon coerces its allies rather than non-allies, with a formal model of target selection as the U.S.-China power gap narrows. (2) Measuring great power status from text using LLMs. (3) How stablecoins shape the formation and effects of U.S. financial policy.
